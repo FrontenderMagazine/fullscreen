@@ -180,7 +180,7 @@ JavaScript `window.navigator.standalone`.
       "fullscreen": true
     }
 
-## Советы по API
+## Советы по использованию API
 
 ### Переход документа в полноэкранный режим
 
